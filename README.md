@@ -19,7 +19,7 @@ A Python desktop application to visualize Resource Allocation Graphs (RAG), simu
 
 ## Installation
 
-Ensure you have Python 3.x installed with the following dependencies:
+Ensure you have Python 3.12 installed with the following dependencies:
 
 ```
 
